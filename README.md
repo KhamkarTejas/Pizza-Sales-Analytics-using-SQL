@@ -1,5 +1,14 @@
 # 🍕 Pizza Sales Analytics using SQL
-     This project is an end-to-end SQL analysis of a pizza store’s sales data, designed to uncover meaningful business insights from raw transactional data.Using advanced SQL techniques — CTEs,          window functions, joins, time-based analysis, and data cleaning — this project demonstrates strong analytical thinking and real-world data handling skills.
+
+## 🚀 Project Overview
+This project is an end-to-end SQL analysis of a pizza store’s sales data, designed to uncover meaningful business insights from raw transactional data.Using advanced SQL techniques — CTEs, window functions, joins, time-based analysis, and data cleaning — this project demonstrates strong analytical thinking and real-world data handling skills.
+
+The goal of this project is to turn raw data into actionable insights that help businesses make **data-driven decisions**.
+
+
+
+
+
 ---
 ## 📂 Dataset Overview
 The dataset contains 4 relational tables:
