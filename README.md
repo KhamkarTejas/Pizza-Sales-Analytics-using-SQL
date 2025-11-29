@@ -62,9 +62,13 @@ These tables help analyze order behavior, revenue, pizza preferences, and catego
 - Window Functions: RANK, OVER, PARTITION BY for ranking & cumulative calculations
 - Data Cleaning: ALTER TABLE to modify and correct datatypes
 ---
-## 👨‍💻 About the Author
 
-Tejas Khamkar
-Data Analyst | SQL | Excel | Power BI | Python
-🔗 LinkedIn: https://www.linkedin.com/in/tejaskhamkar/
+## 🔗 Connect With Me
+**👤 Tejas Khamkar**  
+Aspiring Data Analyst | Excel Enthusiast | Google Data Analytics Certified  
+📫 [LinkedIn](www.linkedin.com/in/tejaskhamkar) 
+
+---
+
+⭐ *If you like this project, consider giving it a star on GitHub!*
 
